@@ -5,8 +5,9 @@
 		//protected $cards = [];
 		//protected $groups = [];
 		
-		//187
-		//153
+		//https://jlptstudy.net/N5/?kanji-list
+		
+		//土気水火
 	
 		public function __construct() {
 			$this->cards = array(
@@ -28,7 +29,8 @@
 				            "DE" => "zwei",
 				            "onyomi" => "ニ",
 				            "kunyomi" => "ふた•つ",
-				            "group" => "学年１"
+				            "group" => "学年１",
+				            "jlpt" => "Ｎ５"
 				        ),
 				
 				    array
@@ -39,7 +41,8 @@
 				            "DE" => "drei",
 				            "onyomi" => "サン",
 				            "kunyomi" => "みっ•つ",
-				            "group" => "学年１"
+				            "group" => "学年１",
+				            "jlpt" => "Ｎ５"
 				        ),
 				
 				    array
@@ -50,7 +53,8 @@
 				            "DE" => "vier",
 				            "onyomi" => "シ",
 				            "kunyomi" => "よっ•つ",
-				            "group" => "学年１"
+				            "group" => "学年１",
+				            "jlpt" => "Ｎ５"
 				        ),
 				
 				    array
@@ -61,7 +65,8 @@
 				            "DE" => "fünf",
 				            "onyomi" => "ゴ",
 				            "kunyomi" => "いつ•つ",
-				            "group" => "学年１"
+				            "group" => "学年１",
+				            "jlpt" => "Ｎ５"
 				        ),
 				
 				    array
@@ -72,7 +77,8 @@
 				            "DE" => "sechs",
 				            "onyomi" => "ロク",
 				            "kunyomi" => "むっ•つ",
-				            "group" => "学年１"
+				            "group" => "学年１",
+				            "jlpt" => "Ｎ５"
 				        ),
 				
 				    array
@@ -83,7 +89,8 @@
 				            "DE" => "sieben",
 				            "onyomi" => "シチ",
 				            "kunyomi" => "なな•つ",
-				            "group" => "学年１"
+				            "group" => "学年１",
+				            "jlpt" => "Ｎ５"
 				        ),
 				
 				    array
@@ -94,7 +101,8 @@
 				            "DE" => "acht",
 				            "onyomi" => "ハチ",
 				            "kunyomi" => "やっ•つ",
-				            "group" => "学年１"
+				            "group" => "学年１",
+				            "jlpt" => "Ｎ５"
 				        ),
 				
 				    array
@@ -105,7 +113,8 @@
 				            "DE" => "neun",
 				            "onyomi" => "キュウ/ク",
 				            "kunyomi" => "ここの•つ",
-				            "group" => "学年１"
+				            "group" => "学年１",
+				            "jlpt" => "Ｎ５"
 				        ),
 				
 				    array
@@ -116,7 +125,8 @@
 				            "DE" => "zehn",
 				            "onyomi" => "ジュウ/ジッ",
 				            "kunyomi" => "とお",
-				            "group" => "学年１"
+				            "group" => "学年１",
+				            "jlpt" => "Ｎ５"
 				        ),
 				
 				    array
@@ -125,9 +135,10 @@
 				            "kanji" => "百",
 				            "Striche" => "6",
 				            "DE" => "hundert",
-				            "onyomi" => "hyaku",
-				            "kunyomi" => "momo",
-				            "group" => "学年１"
+				            "onyomi" => "ヒャク",
+				            "kunyomi" => "もも",
+				            "group" => "学年１",
+				            "jlpt" => "Ｎ５"
 				        ),
 				
 				    array
@@ -136,9 +147,10 @@
 				            "kanji" => "千",
 				            "Striche" => "3",
 				            "DE" => "tausend",
-				            "onyomi" => "sen",
-				            "kunyomi" => "chi",
-				            "group" => "学年１"
+				            "onyomi" => "セン",
+				            "kunyomi" => "ち",
+				            "group" => "学年１",
+				            "jlpt" => "Ｎ５"
 				        ),
 				
 				    array
@@ -147,9 +159,10 @@
 				            "kanji" => "上",
 				            "Striche" => "3",
 				            "DE" => "oben",
-				            "onyomi" => "jō",
-				            "kunyomi" => "ue, kami, a-geru",
-				            "group" => "学年１"
+				            "onyomi" => "ジョウ/ショウ",
+				            "kunyomi" => "うえ",
+				            "group" => "学年１",
+				            "jlpt" => "Ｎ５"
 				        ),
 				
 				    array
@@ -158,9 +171,10 @@
 				            "kanji" => "下",
 				            "Striche" => "3",
 				            "DE" => "unten",
-				            "onyomi" => "ka, ge",
-				            "kunyomi" => "shita, sa-geru, kuda-saru",
-				            "group" => "学年１"
+				            "onyomi" => "カ/ゲ",
+				            "kunyomi" => "した",
+				            "group" => "学年１",
+				            "jlpt" => "Ｎ５"
 				        ),
 				
 				    array
@@ -171,7 +185,8 @@
 				            "DE" => "links",
 				            "onyomi" => "サ",
 				            "kunyomi" => "ひだり",
-				            "group" => "学年１"
+				            "group" => "学年１",
+				            "jlpt" => "Ｎ５"
 				        ),
 				
 				    array
@@ -180,9 +195,10 @@
 				            "kanji" => "右",
 				            "Striche" => "5",
 				            "DE" => "rechts",
-				            "onyomi" => "u, yū",
-				            "kunyomi" => "migi",
-				            "group" => "学年１"
+				            "onyomi" => "ウ/ユウ",
+				            "kunyomi" => "みぎ",
+				            "group" => "学年１",
+				            "jlpt" => "Ｎ５"
 				        ),
 				
 				    array
@@ -190,10 +206,11 @@
 				            "id" => "17",
 				            "kanji" => "中",
 				            "Striche" => "4",
-				            "DE" => "innen, Mitte",
-				            "onyomi" => "chū, jū",
-				            "kunyomi" => "naka",
-				            "group" => "学年１"
+				            "DE" => "Inneres, Mitte",
+				            "onyomi" => "チュウ/ジュウ",
+				            "kunyomi" => "なか",
+				            "group" => "学年１",
+				            "jlpt" => "Ｎ５"
 				        ),
 				
 				    array
@@ -202,9 +219,10 @@
 				            "kanji" => "大",
 				            "Striche" => "3",
 				            "DE" => "groß",
-				            "onyomi" => "dai, tai",
-				            "kunyomi" => "ō-kii",
-				            "group" => "学年１"
+				            "onyomi" => "ダイ/タイ",
+				            "kunyomi" => "おお•きい",
+				            "group" => "学年１",
+				            "jlpt" => "Ｎ５"
 				        ),
 				
 				    array
@@ -213,9 +231,10 @@
 				            "kanji" => "小",
 				            "Striche" => "3",
 				            "DE" => "klein",
-				            "onyomi" => "shō",
-				            "kunyomi" => "chii-sai, ko, o",
-				            "group" => "学年１"
+				            "onyomi" => "ショウ",
+				            "kunyomi" => "ちい•さい",
+				            "group" => "学年１",
+				            "jlpt" => "Ｎ５"
 				        ),
 				
 				    array
@@ -224,9 +243,10 @@
 				            "kanji" => "月",
 				            "Striche" => "4",
 				            "DE" => "Monat; Mond",
-				            "onyomi" => "gatsu, getsu",
-				            "kunyomi" => "tsuki",
-				            "group" => "学年１"
+				            "onyomi" => "ゲツ/ガツ",
+				            "kunyomi" => "つき",
+				            "group" => "学年１",
+				            "jlpt" => "Ｎ５"
 				        ),
 				
 				    array
@@ -237,7 +257,8 @@
 				            "DE" => "Tag; Sonne",
 				            "onyomi" => "ニチ/ジツ",
 				            "kunyomi" => "ひ",
-				            "group" => "学年１"
+				            "group" => "学年１",
+				            "jlpt" => "Ｎ５"
 				        ),
 				
 				    array
@@ -246,9 +267,10 @@
 				            "kanji" => "年",
 				            "Striche" => "6",
 				            "DE" => "Jahr",
-				            "onyomi" => "nen",
-				            "kunyomi" => "toshi",
-				            "group" => "学年１"
+				            "onyomi" => "ネン",
+				            "kunyomi" => "とし",
+				            "group" => "学年１",
+				            "jlpt" => "Ｎ５"
 				        ),
 				
 				    array
@@ -257,9 +279,10 @@
 				            "kanji" => "早",
 				            "Striche" => "6",
 				            "DE" => "früh; schnell",
-				            "onyomi" => "sō, satsu",
-				            "kunyomi" => "haya-i",
-				            "group" => "学年１"
+				            "onyomi" => "ソウ/サッ",
+				            "kunyomi" => "はや•い",
+				            "group" => "学年１",
+				            "jlpt" => "Ｎ４"
 				        ),
 				
 				    array
@@ -268,9 +291,10 @@
 				            "kanji" => "木",
 				            "Striche" => "4",
 				            "DE" => "Baum; Holz",
-				            "onyomi" => "moku, boku",
-				            "kunyomi" => "ki",
-				            "group" => "学年１"
+				            "onyomi" => "ボク/モク",
+				            "kunyomi" => "き",
+				            "group" => "学年１",
+				            "jlpt" => "Ｎ５"
 				        ),
 				
 				    array
@@ -279,9 +303,10 @@
 				            "kanji" => "林",
 				            "Striche" => "7",
 				            "DE" => "Hain, Forst",
-				            "onyomi" => "rin",
-				            "kunyomi" => "hayashi",
-				            "group" => "学年１"
+				            "onyomi" => "リン",
+				            "kunyomi" => "はやし",
+				            "group" => "学年１",
+				            "jlpt" => "Ｎ２"
 				        ),
 				
 				    array
@@ -290,9 +315,10 @@
 				            "kanji" => "山",
 				            "Striche" => "3",
 				            "DE" => "Berg",
-				            "onyomi" => "san, zan",
-				            "kunyomi" => "yama",
-				            "group" => "学年１"
+				            "onyomi" => "サン",
+				            "kunyomi" => "やま",
+				            "group" => "学年１",
+				            "jlpt" => "Ｎ５"
 				        ),
 				
 				    array
@@ -301,9 +327,10 @@
 				            "kanji" => "川",
 				            "Striche" => "3",
 				            "DE" => "Fluss",
-				            "onyomi" => "sen",
-				            "kunyomi" => "kawa",
-				            "group" => "学年１"
+				            "onyomi" => "セン",
+				            "kunyomi" => "かわ",
+				            "group" => "学年１",
+				            "jlpt" => "Ｎ５"
 				        ),
 				
 				    array
@@ -312,9 +339,10 @@
 				            "kanji" => "土",
 				            "Striche" => "3",
 				            "DE" => "Erde",
-				            "onyomi" => "do, to",
-				            "kunyomi" => "tsuchi",
-				            "group" => "学年１"
+				            "onyomi" => "ド/ト",
+				            "kunyomi" => "つち",
+				            "group" => "学年１",
+				            "jlpt" => "Ｎ５"
 				        ),
 				
 				    array
@@ -323,9 +351,10 @@
 				            "kanji" => "空",
 				            "Striche" => "8",
 				            "DE" => "Himmel (vgl. sky),",
-				            "onyomi" => "kū",
-				            "kunyomi" => "sora, a-ku, kara",
-				            "group" => "学年１"
+				            "onyomi" => "クウ",
+				            "kunyomi" => "そら",
+				            "group" => "学年１",
+				            "jlpt" => "Ｎ５"
 				        ),
 				
 				    array
@@ -334,9 +363,10 @@
 				            "kanji" => "田",
 				            "Striche" => "5",
 				            "DE" => "Reisfeld",
-				            "onyomi" => "den",
-				            "kunyomi" => "da, ta",
-				            "group" => "学年１"
+				            "onyomi" => "デン",
+				            "kunyomi" => "た",
+				            "group" => "学年１",
+				            "jlpt" => "Ｎ４"
 				        ),
 				
 				    array
@@ -345,9 +375,10 @@
 				            "kanji" => "天",
 				            "Striche" => "4",
 				            "DE" => "Himmel (vgl. heaven),",
-				            "onyomi" => "ten",
-				            "kunyomi" => "ame, ama",
-				            "group" => "学年１"
+				            "onyomi" => "テン",
+				            "kunyomi" => "あめ",
+				            "group" => "学年１",
+				            "jlpt" => "Ｎ５"
 				        ),
 				
 				    array
@@ -356,9 +387,10 @@
 				            "kanji" => "生",
 				            "Striche" => "5",
 				            "DE" => "Leben; roh",
-				            "onyomi" => "sei, shō",
-				            "kunyomi" => "i-kiru, u-mu, nama",
-				            "group" => "学年１"
+				            "onyomi" => "セイ/ショウ",
+				            "kunyomi" => "い•きる",
+				            "group" => "学年１",
+				            "jlpt" => "Ｎ５"
 				        ),
 				
 				    array
@@ -367,9 +399,10 @@
 				            "kanji" => "花",
 				            "Striche" => "7",
 				            "DE" => "Blume",
-				            "onyomi" => "ka",
-				            "kunyomi" => "hana",
-				            "group" => "学年１"
+				            "onyomi" => "カ",
+				            "kunyomi" => "はな",
+				            "group" => "学年１",
+				            "jlpt" => "Ｎ５"
 				        ),
 				
 				    array
@@ -378,9 +411,10 @@
 				            "kanji" => "草",
 				            "Striche" => "9",
 				            "DE" => "Gras",
-				            "onyomi" => "sō",
-				            "kunyomi" => "kusa",
-				            "group" => "学年１"
+				            "onyomi" => "ソウ",
+				            "kunyomi" => "くさ",
+				            "group" => "学年１",
+				            "jlpt" => "Ｎ３"
 				        ),
 				
 				    array
@@ -389,9 +423,10 @@
 				            "kanji" => "虫",
 				            "Striche" => "6",
 				            "DE" => "Insekt",
-				            "onyomi" => "chū",
-				            "kunyomi" => "mushi",
-				            "group" => "学年１"
+				            "onyomi" => "チュウ",
+				            "kunyomi" => "むし",
+				            "group" => "学年１",
+				            "jlpt" => "Ｎ２"
 				        ),
 				
 				    array
@@ -400,10 +435,10 @@
 				            "kanji" => "犬",
 				            "Striche" => "4",
 				            "DE" => "Hund",
-				            "onyomi" => "ken",
-				            "kunyomi" => "inu",
+				            "onyomi" => "ケン",
+				            "kunyomi" => "いぬ",
 				            "group" => "学年１",
-				            "jlpt" => "Ｎ５"
+				            "jlpt" => "Ｎ４"
 				        ),
 				
 				    array
@@ -412,9 +447,10 @@
 				            "kanji" => "人",
 				            "Striche" => "2",
 				            "DE" => "Person, Mensch",
-				            "onyomi" => "jin, nin",
-				            "kunyomi" => "hito",
-				            "group" => "学年１"
+				            "onyomi" => "ジン/ニン",
+				            "kunyomi" => "ひと",
+				            "group" => "学年１",
+				            "jlpt" => "Ｎ５"
 				        ),
 				
 				    array
@@ -423,9 +459,10 @@
 				            "kanji" => "名",
 				            "Striche" => "6",
 				            "DE" => "Name",
-				            "onyomi" => "mei, myō",
-				            "kunyomi" => "na",
-				            "group" => "学年１"
+				            "onyomi" => "メイ/ミョウ",
+				            "kunyomi" => "な",
+				            "group" => "学年１",
+				            "jlpt" => "Ｎ５"
 				        ),
 				
 				    array
@@ -434,9 +471,10 @@
 				            "kanji" => "女",
 				            "Striche" => "3",
 				            "DE" => "Frau",
-				            "onyomi" => "jo, nyo",
-				            "kunyomi" => "on'na",
-				            "group" => "学年１"
+				            "onyomi" => "ジョ/ニョ",
+				            "kunyomi" => "おんな",
+				            "group" => "学年１",
+				            "jlpt" => "Ｎ５"
 				        ),
 				
 				    array
@@ -445,9 +483,10 @@
 				            "kanji" => "男",
 				            "Striche" => "7",
 				            "DE" => "Mann",
-				            "onyomi" => "dan, nan",
-				            "kunyomi" => "otoko",
-				            "group" => "学年１"
+				            "onyomi" => "ダン/ナン",
+				            "kunyomi" => "おとこ",
+				            "group" => "学年１",
+				            "jlpt" => "Ｎ５"
 				        ),
 				
 				    array
@@ -456,9 +495,10 @@
 				            "kanji" => "子",
 				            "Striche" => "3",
 				            "DE" => "Kind",
-				            "onyomi" => "shi, su",
-				            "kunyomi" => "ko",
-				            "group" => "学年１"
+				            "onyomi" => "シ/ス",
+				            "kunyomi" => "こ",
+				            "group" => "学年１",
+				            "jlpt" => "Ｎ５"
 				        ),
 				
 				    array
@@ -467,9 +507,10 @@
 				            "kanji" => "目",
 				            "Striche" => "5",
 				            "DE" => "Auge",
-				            "onyomi" => "moku",
-				            "kunyomi" => "me",
-				            "group" => "学年１"
+				            "onyomi" => "モク/ボク",
+				            "kunyomi" => "め",
+				            "group" => "学年１",
+				            "jlpt" => "Ｎ５"
 				        ),
 				
 				    array
@@ -478,9 +519,10 @@
 				            "kanji" => "耳",
 				            "Striche" => "6",
 				            "DE" => "Ohr",
-				            "onyomi" => "ji, ni",
-				            "kunyomi" => "mimi",
-				            "group" => "学年１"
+				            "onyomi" => "ジ",
+				            "kunyomi" => "みみ",
+				            "group" => "学年１",
+				            "jlpt" => "Ｎ５"
 				        ),
 				
 				    array
@@ -489,9 +531,10 @@
 				            "kanji" => "口",
 				            "Striche" => "3",
 				            "DE" => "Mund",
-				            "onyomi" => "kō",
-				            "kunyomi" => "kuchi",
-				            "group" => "学年１"
+				            "onyomi" => "コウ/ク",
+				            "kunyomi" => "くち",
+				            "group" => "学年１",
+				            "jlpt" => "Ｎ５"
 				        ),
 				
 				    array
@@ -500,9 +543,10 @@
 				            "kanji" => "手",
 				            "Striche" => "4",
 				            "DE" => "Hand",
-				            "onyomi" => "shu",
-				            "kunyomi" => "te",
-				            "group" => "学年１"
+				            "onyomi" => "シュ",
+				            "kunyomi" => "て",
+				            "group" => "学年１",
+				            "jlpt" => "Ｎ５"
 				        ),
 				
 				    array
@@ -511,9 +555,10 @@
 				            "kanji" => "足",
 				            "Striche" => "7",
 				            "DE" => "Fuß",
-				            "onyomi" => "soku",
-				            "kunyomi" => "ashi",
-				            "group" => "学年１"
+				            "onyomi" => "ソク",
+				            "kunyomi" => "あし",
+				            "group" => "学年１",
+				            "jlpt" => "Ｎ５"
 				        ),
 				
 				    array
@@ -522,9 +567,10 @@
 				            "kanji" => "見",
 				            "Striche" => "7",
 				            "DE" => "sehen",
-				            "onyomi" => "ken, gen",
-				            "kunyomi" => "mi-ru",
-				            "group" => "学年１"
+				            "onyomi" => "ケン",
+				            "kunyomi" => "み•る",
+				            "group" => "学年１",
+				            "jlpt" => "Ｎ５"
 				        ),
 				
 				    array
@@ -533,9 +579,10 @@
 				            "kanji" => "音",
 				            "Striche" => "9",
 				            "DE" => "Ton, Geräusch",
-				            "onyomi" => "on",
-				            "kunyomi" => "ne, oto",
-				            "group" => "学年１"
+				            "onyomi" => "オン/イン",
+				            "kunyomi" => "おと",
+				            "group" => "学年１",
+				            "jlpt" => "Ｎ４"
 				        ),
 				
 				    array
@@ -544,9 +591,10 @@
 				            "kanji" => "力",
 				            "Striche" => "2",
 				            "DE" => "Kraft",
-				            "onyomi" => "riki, ryoku",
-				            "kunyomi" => "chikara",
-				            "group" => "学年１"
+				            "onyomi" => "リョク/リキ",
+				            "kunyomi" => "ちから",
+				            "group" => "学年１",
+				            "jlpt" => "Ｎ４"
 				        ),
 				
 				    array
@@ -555,9 +603,10 @@
 				            "kanji" => "気",
 				            "Striche" => "6",
 				            "DE" => "Luft; Geist, Seele; Stimmung",
-				            "onyomi" => "ki, ke",
-				            "kunyomi" => "iki",
-				            "group" => "学年１"
+				            "onyomi" => "キ/ケ",
+				            "kunyomi" => "-",
+				            "group" => "学年１",
+				            "jlpt" => "Ｎ５"
 				        ),
 				
 				    array
@@ -568,7 +617,8 @@
 				            "DE" => "Yen; Kreis",
 				            "onyomi" => "en",
 				            "kunyomi" => "maru",
-				            "group" => "学年１"
+				            "group" => "学年１",
+				            "jlpt" => "Ｎ５"
 				        ),
 				
 				    array
@@ -579,7 +629,8 @@
 				            "DE" => "hineingehen",
 				            "onyomi" => "nyū",
 				            "kunyomi" => "hai-ru, i-ru",
-				            "group" => "学年１"
+				            "group" => "学年１",
+				            "jlpt" => "Ｎ５"
 				        ),
 				
 				    array
@@ -587,10 +638,11 @@
 				            "id" => "53",
 				            "kanji" => "出",
 				            "Striche" => "5",
-				            "DE" => "herauskommen",
+				            "DE" => "herauskommen, verlassen",
 				            "onyomi" => "shutsu",
 				            "kunyomi" => "de-ru",
-				            "group" => "学年１"
+				            "group" => "学年１",
+				            "jlpt" => "Ｎ５"
 				        ),
 				
 				    array
@@ -601,7 +653,8 @@
 				            "DE" => "aufstehen",
 				            "onyomi" => "ritsu",
 				            "kunyomi" => "ta-tsu",
-				            "group" => "学年１"
+				            "group" => "学年１",
+				            "jlpt" => "Ｎ５"
 				        ),
 				
 				    array
@@ -612,7 +665,8 @@
 				            "DE" => "ausruhen",
 				            "onyomi" => "kyū",
 				            "kunyomi" => "yasu-mu",
-				            "group" => "学年１"
+				            "group" => "学年１",
+				            "jlpt" => "Ｎ５"
 				        ),
 				
 				    array
@@ -620,10 +674,11 @@
 				            "id" => "56",
 				            "kanji" => "先",
 				            "Striche" => "6",
-				            "DE" => "vorher; vorne",
+				            "DE" => "vorher; vorne; Zukunft",
 				            "onyomi" => "sen",
 				            "kunyomi" => "saki",
-				            "group" => "学年１"
+				            "group" => "学年１",
+				            "jlpt" => "Ｎ５"
 				        ),
 				
 				    array
@@ -634,7 +689,8 @@
 				            "DE" => "Abend",
 				            "onyomi" => "seki",
 				            "kunyomi" => "yū",
-				            "group" => "学年１"
+				            "group" => "学年１",
+				            "jlpt" => "Ｎ４"
 				        ),
 				
 				    array
@@ -645,7 +701,8 @@
 				            "DE" => "Buch; Ursprung",
 				            "onyomi" => "hon",
 				            "kunyomi" => "moto",
-				            "group" => "学年１"
+				            "group" => "学年１",
+				            "jlpt" => "Ｎ５"
 				        ),
 				
 				    array
@@ -656,7 +713,8 @@
 				            "DE" => "Text",
 				            "onyomi" => "bun, mon",
 				            "kunyomi" => "fumi",
-				            "group" => "学年１"
+				            "group" => "学年１",
+				            "jlpt" => "Ｎ４"
 				        ),
 				
 				    array
@@ -667,7 +725,8 @@
 				            "DE" => "Schriftzeichen",
 				            "onyomi" => "ji",
 				            "kunyomi" => "aza",
-				            "group" => "学年１"
+				            "group" => "学年１",
+				            "jlpt" => "Ｎ４"
 				        ),
 				
 				    array
@@ -678,7 +737,8 @@
 				            "DE" => "lernen",
 				            "onyomi" => "gaku",
 				            "kunyomi" => "mana-bu",
-				            "group" => "学年１"
+				            "group" => "学年１",
+				            "jlpt" => "Ｎ５"
 				        ),
 				
 				    array
@@ -689,7 +749,8 @@
 				            "DE" => "Schule",
 				            "onyomi" => "kō",
 				            "kunyomi" => "",
-				            "group" => "学年１"
+				            "group" => "学年１",
+				            "jlpt" => "Ｎ５"
 				        ),
 				
 				    array
@@ -700,7 +761,8 @@
 				            "DE" => "Dorf",
 				            "onyomi" => "son",
 				            "kunyomi" => "mura",
-				            "group" => "学年１"
+				            "group" => "学年１",
+				            "jlpt" => "Ｎ２"
 				        ),
 				
 				    array
@@ -711,7 +773,8 @@
 				            "DE" => "Stadt",
 				            "onyomi" => "chō",
 				            "kunyomi" => "machi",
-				            "group" => "学年１"
+				            "group" => "学年１",
+				            "jlpt" => "Ｎ４"
 				        ),
 				
 				    array
@@ -722,7 +785,8 @@
 				            "DE" => "Wald",
 				            "onyomi" => "shin",
 				            "kunyomi" => "mori",
-				            "group" => "学年１"
+				            "group" => "学年１",
+				            "jlpt" => "Ｎ２"
 				        ),
 				
 				    array
@@ -733,7 +797,8 @@
 				            "DE" => "richtig, gerecht",
 				            "onyomi" => "sei, shō",
 				            "kunyomi" => "tada-shii, masa",
-				            "group" => "学年１"
+				            "group" => "学年１",
+				            "jlpt" => "Ｎ４"
 				        ),
 				
 				    array
@@ -744,7 +809,8 @@
 				            "DE" => "Wasser",
 				            "onyomi" => "sui",
 				            "kunyomi" => "mizu",
-				            "group" => "学年１"
+				            "group" => "学年１",
+				            "jlpt" => "Ｎ５"
 				        ),
 				
 				    array
@@ -755,7 +821,8 @@
 				            "DE" => "Feuer",
 				            "onyomi" => "ka",
 				            "kunyomi" => "hi",
-				            "group" => "学年１"
+				            "group" => "学年１",
+				            "jlpt" => "Ｎ５"
 				        ),
 				
 				    array
@@ -766,7 +833,8 @@
 				            "DE" => "Edelstein",
 				            "onyomi" => "gyoku",
 				            "kunyomi" => "tama",
-				            "group" => "学年１"
+				            "group" => "学年１",
+				            "jlpt" => "Ｎ２"
 				        ),
 				
 				    array
@@ -777,7 +845,8 @@
 				            "DE" => "König",
 				            "onyomi" => "ō",
 				            "kunyomi" => "kimi",
-				            "group" => "学年１"
+				            "group" => "学年１",
+				            "jlpt" => "Ｎ３"
 				        ),
 				
 				    array
@@ -788,7 +857,8 @@
 				            "DE" => "Stein",
 				            "onyomi" => "seki, koku",
 				            "kunyomi" => "ishi",
-				            "group" => "学年１"
+				            "group" => "学年１",
+				            "jlpt" => "Ｎ３"
 				        ),
 				
 				    array
@@ -799,7 +869,8 @@
 				            "DE" => "Bambus",
 				            "onyomi" => "chiku",
 				            "kunyomi" => "take",
-				            "group" => "学年１"
+				            "group" => "学年１",
+				            "jlpt" => "Ｎ２"
 				        ),
 				
 				    array
@@ -810,7 +881,8 @@
 				            "DE" => "Faden",
 				            "onyomi" => "shi",
 				            "kunyomi" => "ito",
-				            "group" => "学年１"
+				            "group" => "学年１",
+				            "jlpt" => "Ｎ２"
 				        ),
 				
 				    array
@@ -821,7 +893,8 @@
 				            "DE" => "Muschel",
 				            "onyomi" => "bai",
 				            "kunyomi" => "kai",
-				            "group" => "学年１"
+				            "group" => "学年１",
+				            "jlpt" => "Ｎ２"
 				        ),
 				
 				    array
@@ -832,7 +905,8 @@
 				            "DE" => "Fahrzeug",
 				            "onyomi" => "sha",
 				            "kunyomi" => "kuruma",
-				            "group" => "学年１"
+				            "group" => "学年１",
+				            "jlpt" => "Ｎ５"
 				        ),
 				
 				    array
@@ -843,7 +917,8 @@
 				            "DE" => "Gold; Geld",
 				            "onyomi" => "kin",
 				            "kunyomi" => "kane, kana",
-				            "group" => "学年１"
+				            "group" => "学年１",
+				            "jlpt" => "Ｎ５"
 				        ),
 				
 				    array
@@ -854,7 +929,8 @@
 				            "DE" => "Regen",
 				            "onyomi" => "u",
 				            "kunyomi" => "ame, ama",
-				            "group" => "学年１"
+				            "group" => "学年１",
+				            "jlpt" => "Ｎ５"
 				        ),
 				
 				    array
@@ -865,7 +941,8 @@
 				            "DE" => "rot",
 				            "onyomi" => "seki",
 				            "kunyomi" => "aka",
-				            "group" => "学年１"
+				            "group" => "学年１",
+				            "jlpt" => "Ｎ４"
 				        ),
 				
 				    array
@@ -876,7 +953,8 @@
 				            "DE" => "blau",
 				            "onyomi" => "sei, shō",
 				            "kunyomi" => "ao",
-				            "group" => "学年１"
+				            "group" => "学年１",
+				            "jlpt" => "Ｎ４"
 				        ),
 				
 				    array
@@ -887,12 +965,594 @@
 				            "DE" => "weiß",
 				            "onyomi" => "haku",
 				            "kunyomi" => "shiro, shira",
-				            "group" => "学年１"
+				            "group" => "学年１",
+				            "jlpt" => "Ｎ５"
+				        ),
+				
+				    array
+				        (
+				            "id" => "82",
+				            "kanji" => "多",
+				            "Striche" => "6",
+				            "DE" => "viel",
+				            "EN" => "many, frequent, much",
+				            "onyomi" => "タ",
+				            "kunyomi" => "",
+				            "group" => "学年２",
+				            "jlpt" => "Ｎ５"
+				        ),
+				
+				    array
+				        (
+				            "id" => "83",
+				            "kanji" => "少",
+				            "Striche" => "4",
+				            "DE" => "wenig, klein",
+				            "EN" => "few, little",
+				            "onyomi" => "ショウ",
+				            "kunyomi" => "すく.ない, すこ.し",
+				            "group" => "学年２",
+				            "jlpt" => "Ｎ５"
+				        ),
+				
+				    array
+				        (
+				            "id" => "85",
+				            "kanji" => "半",
+				            "Striche" => "5",
+				            "DE" => "halb, Mitte, ungrade Zahl",
+				            "EN" => "half, middle, odd number",
+				            "onyomi" => "ハン",
+				            "kunyomi" => "なか.ば",
+				            "group" => "学年２",
+				            "jlpt" => "Ｎ５"
+				        ),
+				
+				    array
+				        (
+				            "id" => "90",
+				            "kanji" => "長",
+				            "Striche" => "8",
+				            "DE" => "lang; Anführer",
+				            "EN" => "long, leader, superior, senior",
+				            "onyomi" => "チョウ",
+				            "kunyomi" => "なが.い、 おさ",
+				            "group" => "学年２",
+				            "jlpt" => "Ｎ５"
+				        ),
+				
+				    array
+				        (
+				            "id" => "102",
+				            "kanji" => "高",
+				            "Striche" => "10",
+				            "DE" => "hoch, teuer",
+				            "EN" => "tall, high, expensive",
+				            "onyomi" => "コウ",
+				            "kunyomi" => "",
+				            "group" => "学年２",
+				            "jlpt" => "Ｎ５"
+				        ),
+				
+				    array
+				        (
+				            "id" => "105",
+				            "kanji" => "母",
+				            "Striche" => "5",
+				            "DE" => "Mutter",
+				            "EN" => "mother",
+				            "onyomi" => "ボ",
+				            "kunyomi" => "はは、 も",
+				            "group" => "学年２",
+				            "jlpt" => "Ｎ５"
+				        ),
+				
+				    array
+				        (
+				            "id" => "106",
+				            "kanji" => "父",
+				            "Striche" => "4",
+				            "DE" => "Vater",
+				            "EN" => "father",
+				            "onyomi" => "フ",
+				            "kunyomi" => "ちち",
+				            "group" => "学年２",
+				            "jlpt" => "Ｎ５"
+				        ),
+				
+				    array
+				        (
+				            "id" => "119",
+				            "kanji" => "時",
+				            "Striche" => "10",
+				            "DE" => "Uhrzeit, Stunde",
+				            "EN" => "time, hour",
+				            "onyomi" => "ジ",
+				            "kunyomi" => "とき、 -どき",
+				            "group" => "学年２",
+				            "jlpt" => "Ｎ５"
+				        ),
+				
+				    array
+				        (
+				            "id" => "112",
+				            "kanji" => "友",
+				            "Striche" => "4",
+				            "DE" => "Freund",
+				            "EN" => "friend",
+				            "onyomi" => "ユウ",
+				            "kunyomi" => "とも",
+				            "group" => "学年２",
+				            "jlpt" => "Ｎ５"
+				        ),
+				
+				    array
+				        (
+				            "id" => "124",
+				            "kanji" => "分",
+				            "Striche" => "4",
+				            "DE" => "Minute; verstehen",
+				            "EN" => "part, minute, segment, understand, know, chance",
+				            "onyomi" => "ブン、 フン、 ブ",
+				            "kunyomi" => "",
+				            "group" => "学年２",
+				            "jlpt" => "Ｎ５"
+				        ),
+				
+				    array
+				        (
+				            "id" => "125",
+				            "kanji" => "週",
+				            "Striche" => "11",
+				            "DE" => "Woche",
+				            "EN" => "week",
+				            "onyomi" => "シュウ",
+				            "kunyomi" => "",
+				            "group" => "学年２",
+				            "jlpt" => "Ｎ５"
+				        ),
+				
+				    array
+				        (
+				            "id" => "130",
+				            "kanji" => "今",
+				            "Striche" => "4",
+				            "DE" => "jetzt",
+				            "DE" => "now",
+				            "onyomi" => "",
+				            "kunyomi" => "",
+				            "group" => "学年２",
+				            "jlpt" => "Ｎ５"
+				        ),
+				
+				    array
+				        (
+				            "id" => "131",
+				            "kanji" => "新",
+				            "Striche" => "13",
+				            "DE" => "neu",
+				            "EN" => "new",
+				            "onyomi" => "シン",
+				            "kunyomi" => "",
+				            "group" => "学年２",
+				            "jlpt" => "Ｎ５"
+				        ),
+				
+				    array
+				        (
+				            "id" => "132",
+				            "kanji" => "古",
+				            "Striche" => "8",
+				            "DE" => "alt",
+				            "EN" => "old",
+				            "onyomi" => "コ",
+				            "kunyomi" => "",
+				            "group" => "学年２",
+				            "jlpt" => "Ｎ５"
+				        ),
+				
+				    array
+				        (
+				            "id" => "133",
+				            "kanji" => "間",
+				            "Striche" => "12",
+				            "DE" => "Zwischenraum",
+				            "EN" => "interval, space",
+				            "onyomi" => "",
+				            "kunyomi" => "",
+				            "group" => "学年２",
+				            "jlpt" => "Ｎ５"
+				        ),
+				
+				    array
+				        (
+				            "id" => "135",
+				            "kanji" => "北",
+				            "Striche" => "5",
+				            "DE" => "Norden",
+				            "EN" => "north",
+				            "onyomi" => "ホク",
+				            "kunyomi" => "きた",
+				            "group" => "学年２",
+				            "jlpt" => "Ｎ５"
+				        ),
+				
+				    array
+				        (
+				            "id" => "136",
+				            "kanji" => "南",
+				            "Striche" => "9",
+				            "DE" => "Süden",
+				            "EN" => "south",
+				            "onyomi" => "ナン、 ナ",
+				            "kunyomi" => "みなみ",
+				            "group" => "学年２",
+				            "jlpt" => "Ｎ５"
+				        ),
+				
+				    array
+				        (
+				            "id" => "137",
+				            "kanji" => "東",
+				            "Striche" => "8",
+				            "DE" => "Ost",
+				            "EN" => "East",
+				            "onyomi" => "トウ",
+				            "kunyomi" => "ひがし",
+				            "group" => "学年２",
+				            "jlpt" => "Ｎ５"
+				        ),
+				
+				    array
+				        (
+				            "id" => "138",
+				            "kanji" => "西",
+				            "Striche" => "6",
+				            "DE" => "Westen, スペイン",
+				            "EN" => "West, スペイン",
+				            "onyomi" => "セイ、 サイ、 ス",
+				            "kunyomi" => "にし",
+				            "group" => "学年２",
+				            "jlpt" => "Ｎ５"
+				        ),
+				
+				    array
+				        (
+				            "id" => "141",
+				            "kanji" => "前",
+				            "Striche" => "9",
+				            "DE" => "vorher",
+				            "EN" => "in front, before",
+				            "onyomi" => "",
+				            "kunyomi" => "",
+				            "group" => "学年２",
+				            "jlpt" => "Ｎ５"
+				        ),
+				
+				    array
+				        (
+				            "id" => "142",
+				            "kanji" => "後",
+				            "Striche" => "9",
+				            "DE" => "nachher",
+				            "EN" => "behind, back, later",
+				            "onyomi" => "",
+				            "kunyomi" => "",
+				            "group" => "学年２",
+				            "jlpt" => "Ｎ５"
+				        ),
+				
+				    array
+				        (
+				            "id" => "144",
+				            "kanji" => "外",
+				            "Striche" => "5",
+				            "DE" => "außen",
+				            "EN" => "outside",
+				            "onyomi" => "",
+				            "kunyomi" => "",
+				            "group" => "学年２",
+				            "jlpt" => "Ｎ５"
+				        ),
+				
+				    array
+				        (
+				            "id" => "147",
+				            "kanji" => "国",
+				            "Striche" => "8",
+				            "DE" => "Land",
+				            "EN" => "country",
+				            "onyomi" => "コク",
+				            "kunyomi" => "くに",
+				            "group" => "学年２",
+				            "jlpt" => "Ｎ５"
+				        ),
+				
+				    array
+				        (
+				            "id" => "168",
+				            "kanji" => "道",
+				            "Striche" => "12",
+				            "DE" => "Straße, Distrikt, Lehre",
+				            "EN" => "street, district, course, moral, teachings",
+				            "onyomi" => "ドウ, トウ",
+				            "kunyomi" => "みち",
+				            "group" => "学年２",
+				            "jlpt" => "Ｎ５"
+				        ),
+				
+				    array
+				        (
+				            "id" => "169",
+				            "kanji" => "話",
+				            "Striche" => "13",
+				            "DE" => "reden",
+				            "EN" => "tale, talk",
+				            "onyomi" => "ワ",
+				            "kunyomi" => "はな.す、 はなし",
+				            "group" => "学年２",
+				            "jlpt" => "Ｎ５"
+				        ),
+				
+				    array
+				        (
+				            "id" => "170",
+				            "kanji" => "言",
+				            "Striche" => "7",
+				            "DE" => "sagen",
+				            "EN" => "say",
+				            "onyomi" => "ゲン, ゴン",
+				            "kunyomi" => "い.う, こと",
+				            "group" => "学年２",
+				            "jlpt" => "Ｎ５"
+				        ),
+				
+				    array
+				        (
+				            "id" => "173",
+				            "kanji" => "聞",
+				            "Striche" => "14",
+				            "DE" => "hören, fragen, zuhören",
+				            "EN" => "hear, ask, listen",
+				            "onyomi" => "ブン、 モン",
+				            "kunyomi" => "き.く、 き.こえる",
+				            "group" => "学年２",
+				            "jlpt" => "Ｎ５"
+				        ),
+				
+				    array
+				        (
+				            "id" => "174",
+				            "kanji" => "語",
+				            "Striche" => "14",
+				            "DE" => "Wort, Rede, Sprache",
+				            "EN" => "word, speech, language",
+				            "onyomi" => "ゴ",
+				            "kunyomi" => "かた.る、 かた.らう",
+				            "group" => "学年２",
+				            "jlpt" => "Ｎ５"
+				        ),
+				
+				    array
+				        (
+				            "id" => "175",
+				            "kanji" => "読",
+				            "Striche" => "14",
+				            "DE" => "lesen",
+				            "EN" => "read",
+				            "onyomi" => "ドク、 トク、 トウ",
+				            "kunyomi" => "よ.む、 -よ.み",
+				            "group" => "学年２",
+				            "jlpt" => "Ｎ５"
+				        ),
+				
+				    array
+				        (
+				            "id" => "176",
+				            "kanji" => "書",
+				            "Striche" => "10",
+				            "DE" => "schreiben",
+				            "EN" => "write",
+				            "onyomi" => "ショ",
+				            "kunyomi" => "",
+				            "group" => "学年２",
+				            "jlpt" => "Ｎ５"
+				        ),
+				
+				    array
+				        (
+				            "id" => "193",
+				            "kanji" => "食",
+				            "Striche" => "9",
+				            "DE" => "essen, Essen",
+				            "EN" => "eat, food",
+				            "onyomi" => "ショク、 ジキ",
+				            "kunyomi" => "く.う、 く.らう、 た.べる、 は.む",
+				            "group" => "学年２",
+				            "jlpt" => "Ｎ５"
+				        ),
+				
+				    array
+				        (
+				            "id" => "207",
+				            "kanji" => "来",
+				            "Striche" => "7",
+				            "DE" => "kommen",
+				            "EN" => "come, due, next, cause, become",
+				            "onyomi" => "",
+				            "kunyomi" => "",
+				            "group" => "学年２",
+				            "jlpt" => "Ｎ５"
+				        ),
+				
+				    array
+				        (
+				            "id" => "208",
+				            "kanji" => "行",
+				            "Striche" => "6",
+				            "DE" => "gehen",
+				            "EN" => "going, journey",
+				            "onyomi" => "ジ", //????
+				            "kunyomi" => "とき、 -どき", ///????
+				            "group" => "学年２",
+				            "jlpt" => "Ｎ５"
+				        ),
+				
+				    array
+				        (
+				            "id" => "214",
+				            "kanji" => "店",
+				            "Striche" => "8",
+				            "DE" => "Laden",
+				            "EN" => "store, shop",
+				            "onyomi" => "テン",
+				            "kunyomi" => "みせ、 たな",
+				            "group" => "学年２",
+				            "jlpt" => "Ｎ５"
+				        ),
+				
+				    array
+				        (
+				            "id" => "215",
+				            "kanji" => "買",
+				            "Striche" => "12",
+				            "DE" => "kaufen",
+				            "EN" => "buy",
+				            "onyomi" => "バイ",
+				            "kunyomi" => "か.う",
+				            "group" => "学年２",
+				            "jlpt" => "Ｎ５"
+				        ),
+				
+				    array
+				        (
+				            "id" => "217",
+				            "kanji" => "午",
+				            "Striche" => "4",
+				            "DE" => "Mittag, 11-13 Uhr",
+				            "EN" => "noon, sign of horse, 11am-1pm",
+				            "onyomi" => "ゴ",
+				            "kunyomi" => "うま",
+				            "group" => "学年２",
+				            "jlpt" => "Ｎ５"
+				        ),
+				
+				    array
+				        (
+				            "id" => "221",
+				            "kanji" => "会",
+				            "Striche" => "6",
+				            "DE" => "treffen",
+				            "EN" => "meeting, meet, party, association, interview, join",
+				            "onyomi" => "カイ、 エ",
+				            "kunyomi" => "",
+				            "group" => "学年２",
+				            "jlpt" => "Ｎ５"
+				        ),
+				
+				    array
+				        (
+				            "id" => "225",
+				            "kanji" => "社",
+				            "Striche" => "13",
+				            "DE" => "Firma, Shrein",
+				            "EN" => "company, firm, office, association, shrine",
+				            "onyomi" => "シャ",
+				            "kunyomi" => "やしろ",
+				            "group" => "学年２",
+				            "jlpt" => "Ｎ５"
+				        ),
+				
+				    array
+				        (
+				            "id" => "227",
+				            "kanji" => "電",
+				            "Striche" => "14",
+				            "DE" => "Elektrizität",
+				            "EN" => "electricity",
+				            "onyomi" => "デン",
+				            "kunyomi" => "",
+				            "group" => "学年２",
+				            "jlpt" => "Ｎ５"
+				        ),
+				
+				    array
+				        (
+				            "id" => "228",
+				            "kanji" => "毎",
+				            "Striche" => "6",
+				            "DE" => "jeder",
+				            "EN" => "every",
+				            "onyomi" => "マイ",
+				            "kunyomi" => "",
+				            "group" => "学年２",
+				            "jlpt" => "Ｎ５"
+				        ),
+				
+				    array
+				        (
+				            "id" => "240",
+				            "kanji" => "何",
+				            "Striche" => "7",
+				            "DE" => "was",
+				            "EN" => "what",
+				            "onyomi" => "カ",
+				            "kunyomi" => "",
+				            "group" => "学年２",
+				            "jlpt" => "Ｎ５"
+				        ),
+				
+				    array
+				        (
+				            "id" => "285",
+				            "kanji" => "安",
+				            "Striche" => "6",
+				            "DE" => "billig, friedlich",
+				            "EN" => "relax, cheap, low, quiet",
+				            "onyomi" => "アン",
+				            "kunyomi" => "",
+				            "group" => "学年３",
+				            "jlpt" => "Ｎ５"
+				        ),
+				/*
+				    array
+				        (
+				            "id" => "322",
+				            "kanji" => "旅",
+				            "Striche" => "10",
+				            "DE" => "Reise, reisen",
+				            "EN" => "trip, travel",
+				            "onyomi" => "リョ",
+				            "kunyomi" => "旅",
+				            "group" => "学年３",
+				            "jlpt" => "Ｎ４"
+				        ),*/
+				
+				    array
+				        (
+				            "id" => "437",
+				            "kanji" => "飲",
+				            "Striche" => "12",
+				            "DE" => "trinken, rauchen, nehmen",
+				            "EN" => "drink, smoke, take",
+				            "onyomi" => "イン, オン",
+				            "kunyomi" => "の.む, -の.み",
+				            "group" => "学年３",
+				            "jlpt" => "Ｎ５"
+				        ),
+				
+				    array
+				        (
+				            "id" => "439",
+				            "kanji" => "駅",
+				            "Striche" => "12",
+				            "DE" => "Bahnhof",
+				            "EN" => "station",
+				            "onyomi" => "エキ",
+				            "kunyomi" => "",
+				            "group" => "学年３",
+				            "jlpt" => "Ｎ５"
 				        )
-		    
-		    
-		    
-		    
 		    );
 
 		}
