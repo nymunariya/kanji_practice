@@ -1,2 +1,9 @@
 # kanji_practice
 Flash cards for learning Kanji &amp; Radicals
+
+<p>Since I wasn't happy with any of the resources online for learning Japanese/practicing for the <span title="Japanese-Language Proficiency Test">JLPT</span>, I decided to make digital flash cards.  Since I've been doing web programming on and off since the late 1990s, I might as well put my (now, arguably) rusty PHP skills to the test.</p>
+<p>Settings are "built in" so the front of the flash cards can be customised.  Options are available for language of the translations (between <span title="German">ドイツ語</span> and <span title="English">英語</span>, as well as <span title="neither/none">無し</span>), whether or not <span title="furigana">ふりがな</span> is wanted, and wether or not translations should be shown at all.</p>
+<p>As the database is being filled out based on where I am learning Japanese &amp; Kanji, not all Kanji may be available yet. They should be added as I progress. At the moment, it is based on grade school levels, but I would like to add selections for the JLPT levels.</p>
+<p>These pages were made using PHP and HTML only.  Instead of a MySQL databate, PHP classes are used.  Instead of cookies (to save settings), _GET URL variables are used.</p>
+<p>Information has been collected from various websites, including: <a href="https://jlptstudy.net">jlptstudy.net</a>, <a href="https://de.wikipedia.org/">Wikipedia</a> (<a href="https://de.wikipedia.org/wiki/Kyōiku-Kanji">Kyōiku-Kanji (DE)</a>, <a href="https://en.wikipedia.org/wiki/List_of_kanji_radicals_by_frequency">List of Kanji radicals by frequency</a>), and <a href="https://jisho.org">jisho.org</a>.</p>
+<p>As always, because I believe in OpenSource, everything should be available (soon) on Github, so that anyone can use what I made to make their own flash cards (for whatever) and improve upon it, as this will not be the prettiest nor best code. </p>
