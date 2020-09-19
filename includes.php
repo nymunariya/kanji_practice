@@ -20,6 +20,7 @@
 		else echo "万\" title=\"show all cards\"";
 		echo " /></form></center></p>";
 	}
+	
 	function get_group( $group = "" ) {
 		switch ($group) {
 			case "group1":
@@ -89,8 +90,9 @@
 		echo "<span class=\"class\">" . $card_class . "</span>";
 		if( $type == "kanji" ) echo "<span class=\"class2\">" . $card['jlpt'] . "</span>";
 		echo "</div>";
-		//JLPT N Klasse hinzufügen, auch im Datenbank
-		if( $type == "kanji" )  echo "<div class=\"id\">" . $card['Striche'] . "</div>";
+		//if( $type == "kanji" )  echo "<div class=\"id\"><span title=\"" . $card['id'] . "\">" . $card['Striche'] . "</span></div>";
+		//if( $type == "kanji" )  echo "<div class=\"id\">" . $card['Striche'] . "</div>";
+		if( $type == "kanji" )  echo "<div class=\"id\">" . $card['id'] . "</div>";
 		else if( $type == "radical" )  echo "<div class=\"id\">" . $card['id'] . "</div>";
 		echo "<div class=\"kanji\"><ruby><rb>" . $card['kanji'] . "</rb><rt class=\"furigana\">";
 		if( $_GET['furigana'] != "none" ) echo $furigana;
